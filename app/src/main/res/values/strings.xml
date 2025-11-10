@@ -1,15 +1,15 @@
 <resources>
-    <string name="app_name">Супергерои</string>
-    <string name="hero1">Ник днем и ночью</string>
-    <string name="description1">Герой с реактивным ранцем</string>
-    <string name="hero2">Настоящий защитник</string>
-    <string name="description2">Защитник реальности</string>
-    <string name="hero3">Андре-великан</string>
-    <string name="description3">Имитирует свет и ночь, чтобы гармонировать с ними</string>
+    <string name="app_name">Котики-Супергерои</string>
+    <string name="hero1">Ночной Дозорный Ник"</string>
+    <string name="description1">Неуловимый герой с реактивным ранцем</string>
+    <string name="hero2">Всевидящий Страж</string>
+    <string name="description2">Познавший абсолютную истину</string>
+    <string name="hero3">Андре-Великан</string>
+    <string name="description3">Управляет светом и тьмой, чтобы стать незримым</string>
     <string name="hero4">Бенджамин Храбрый</string>
-    <string name="description4">Использует силу канарейки для смелого развития</string>
+    <string name="description4">Использует силу канарейки для увеличения отваги</string>
     <string name="hero5">Великолепный Мару</string>
-    <string name="description5">Легко скользит внутрь, чтобы спасти положение</string>
+    <string name="description5">Бесподобно появляется из ниоткуда и всех спасает</string>
     <string name="hero6">Динамичная Ясмин</string>
     <string name="description6">Способность принимать любую форму и заряжать энергией</string>
 </resources>
